@@ -8,5 +8,5 @@ docker-compose up -d
 docker-compose stop
 ```
 
-## TEST
+## TO TEST APPLICATION
 http://localhost:8000
